@@ -1,5 +1,5 @@
 ## Problema a ser resolvido é da função dada:
-<img src="./assets/read.git" height="300"/>
+<img src="./assets/read.gif" height="300"/>
 ## Você deve ter a lib matplot instalada
 - para instalar no ubuntu basta escrever o comando: sudo apt-get install python3-matplotlib
 - e para executar o programa, basta fazer como segue o gif abaixo:
